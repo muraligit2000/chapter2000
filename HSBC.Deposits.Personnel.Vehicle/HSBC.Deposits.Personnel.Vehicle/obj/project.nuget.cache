@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBYAXgffjW+/FLozt/iXbQeS5PHwGDnanA2n/loXna6S86rE5MFCOeLy004I5A3lpDi0zvijP+yKt5xlq+VdFg==",
+  "success": true,
+  "projectFilePath": "D:\\Example1\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle\\HSBC.Deposits.Personnel.Vehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.3.1\\swashbuckle.aspnetcore.annotations.5.3.1.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\mural\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
